@@ -1,2 +1,5 @@
 jupyter labextension install @jupyterlab/git
 jupyter serverextension enable --py jupyterlab_git
+# binder runs whatever you put in this file after it finishes building docker image
+# tools, options you might want to use
+# dont change how code runs, but changes how you write your code
